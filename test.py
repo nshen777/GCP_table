@@ -1,4 +1,2 @@
 print("Hello");
 
-
-print("cat")
